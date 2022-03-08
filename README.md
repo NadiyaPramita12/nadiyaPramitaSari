@@ -1,4 +1,6 @@
 # praktikum2
+![Screenshot_8](https://user-images.githubusercontent.com/100394709/157272349-183d94cb-180e-4105-bfa7-4086a95cd3d0.png)
+
 
 A new Flutter project.
 
